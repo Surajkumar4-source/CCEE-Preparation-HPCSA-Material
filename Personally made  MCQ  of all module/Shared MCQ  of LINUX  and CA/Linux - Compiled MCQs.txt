@@ -1,0 +1,351 @@
+1. What is the default shell in most Linux distributions?  
+   a) Bash  
+   b) Zsh  
+   c) Fish  
+   d) Tcsh  
+   **Correct Answer: a)**  
+
+2. Which command is used to list files and directories?  
+   a) ls  
+   b) list  
+   c) dir  
+   d) show  
+   **Correct Answer: a)**  
+
+3. What does `cd` stand for in Linux?  
+   a) Copy Directory  
+   b) Change Directory  
+   c) Create Directory  
+   d) Current Directory  
+   **Correct Answer: b)**  
+
+4. Which command is used to display the current working directory?  
+   a) pwd  
+   b) cwd  
+   c) dir  
+   d) path  
+   **Correct Answer: a)**  
+
+5. Which command is used to create a new directory?  
+   a) mkdir  
+   b) newdir  
+   c) createdir  
+   d) adddir  
+   **Correct Answer: a)**  
+
+6. How do you remove an empty directory?  
+   a) rmdir  
+   b) deldir  
+   c) removedir  
+   d) rm -rf  
+   **Correct Answer: a)**  
+
+7. Which command is used to copy files?  
+   a) cp  
+   b) copy  
+   c) mv  
+   d) duplicate  
+   **Correct Answer: a)**  
+
+8. What does the `mv` command do?  
+   a) Copy files  
+   b) Delete files  
+   c) Move/Rename files  
+   d) Modify files  
+   **Correct Answer: c)**  
+
+9. Which command is used to display the contents of a file?  
+   a) cat  
+   b) show  
+   c) open  
+   d) view  
+   **Correct Answer: a)**  
+
+10. Which command is used to search for text in a file?  
+   a) find  
+   b) grep  
+   c) locate  
+   d) search  
+   **Correct Answer: b)**  
+
+11. What does `chmod` modify?  
+   a) File name  
+   b) File permissions  
+   c) File size  
+   d) File type  
+   **Correct Answer: b)**  
+
+12. What does the `ps` command display?  
+   a) Running processes  
+   b) Disk usage  
+   c) File permissions  
+   d) Memory usage  
+   **Correct Answer: a)**  
+
+13. Which command is used to terminate a process?  
+   a) kill  
+   b) stop  
+   c) end  
+   d) halt  
+   **Correct Answer: a)**  
+
+14. What does the `df` command display?  
+   a) File permissions  
+   b) Disk space usage  
+   c) Network configuration  
+   d) Process details  
+   **Correct Answer: b)**  
+
+15. How do you display the manual page for a command?  
+   a) help  
+   b) manual  
+   c) man  
+   d) guide  
+   **Correct Answer: c)**  
+
+16. Which command is used to change file ownership?  
+   a) chown  
+   b) chmod  
+   c) owner  
+   d) changeowner  
+   **Correct Answer: a)**  
+
+17. Which command is used to archive files?  
+   a) tar  
+   b) zip  
+   c) gzip  
+   d) bzip2  
+   **Correct Answer: a)**  
+
+18. What is the default port for SSH?  
+   a) 21  
+   b) 22  
+   c) 23  
+   d) 25  
+   **Correct Answer: b)**  
+
+19. Which command is used to display system uptime?  
+   a) uptime  
+   b) status  
+   c) sysinfo  
+   d) uptimecheck  
+   **Correct Answer: a)**  
+
+20. What is the purpose of the `passwd` command?  
+   a) Change user password  
+   b) View user password  
+   c) Reset root password  
+   d) Check system password policy  
+   **Correct Answer: a)**  
+
+21. Which command is used to compress files?  
+   a) gzip  
+   b) tar  
+   c) zip  
+   d) compress  
+   **Correct Answer: a)**  
+
+22. How do you view the current network configuration?  
+   a) ifconfig  
+   b) netstat  
+   c) config  
+   d) ipconfig  
+   **Correct Answer: a)**  
+
+23. What does `mkdir -p` do?  
+   a) Create a parent directory  
+   b) Create a directory and its parents  
+   c) Protect a directory  
+   d) Set permissions for a directory  
+   **Correct Answer: b)**  
+
+24. What does the `top` command display?  
+   a) Running processes  
+   b) Disk usage  
+   c) System log  
+   d) File list  
+   **Correct Answer: a)**  
+
+25. How do you display the last 10 lines of a file?  
+   a) tail  
+   b) head  
+   c) last  
+   d) lines  
+   **Correct Answer: a)**  
+
+26. Which file contains user account information?  
+   a) /etc/passwd  
+   b) /etc/shadow  
+   c) /etc/user  
+   d) /etc/config  
+   **Correct Answer: a)**  
+
+27. How do you switch to the root user?  
+   a) su  
+   b) sudo  
+   c) root  
+   d) admin  
+   **Correct Answer: a)**  
+
+28. Which command is used to check disk usage of a directory?  
+   a) du  
+   b) df  
+   c) ls  
+   d) usage  
+   **Correct Answer: a)**  
+
+29. How do you check the kernel version?  
+   a) uname -r  
+   b) kernel -v  
+   c) version  
+   d) sysctl -k  
+   **Correct Answer: a)**  
+
+30. Which command is used to find the location of a file?  
+   a) locate  
+   b) find  
+   c) search  
+   d) whereis  
+   **Correct Answer: b)**  
+
+31. What does the `echo` command do?  
+   a) Display text  
+   b) Execute a script  
+   c) Check system status  
+   d) Start a process  
+   **Correct Answer: a)**  
+
+32. Which command lists all open files?  
+   a) lsof  
+   b) lsopen  
+   c) openfiles  
+   d) files  
+   **Correct Answer: a)**  
+
+33. What does `crontab` manage?  
+   a) Scheduled tasks  
+   b) User passwords  
+   c) File permissions  
+   d) Disk quotas  
+   **Correct Answer: a)**  
+
+34. Which file stores the system hostname?  
+   a) /etc/hostname  
+   b) /etc/hosts  
+   c) /etc/sysconfig  
+   d) /etc/resolv.conf  
+   **Correct Answer: a)**  
+
+35. What does `whoami` display?  
+   a) Current user  
+   b) Current directory  
+   c) System hostname  
+   d) Logged-in users  
+   **Correct Answer: a)**  
+
+36. Which command is used to display system logs?  
+   a) dmesg  
+   b) syslog  
+   c) logread  
+   d) messages  
+   **Correct Answer: a)**  
+
+37. Which command extracts files from a tar archive?  
+   a) tar -x  
+   b) tar -c  
+   c) tar -t  
+   d) tar -z  
+   **Correct Answer: a)**  
+
+38. What does `ping` test?  
+   a) Network connectivity  
+   b) System performance  
+   c) File integrity  
+   d) DNS configuration  
+   **Correct Answer: a)**  
+
+39. How do you display disk partition information?  
+   a) fdisk -l  
+   b) partitions  
+   c) disklist  
+   d) blkid  
+   **Correct Answer: a)**  
+
+40. Which command changes file timestamps?  
+   a) touch  
+   b) date  
+   c) time  
+   d) modify  
+   **Correct Answer: a)**  
+
+41. How do you reboot a Linux system?  
+   a) reboot  
+   b) shutdown -r  
+   c) init 6  
+   d) All of the above  
+   **Correct Answer: d)**  
+
+42. Which directory contains user home directories?  
+   a) /home  
+   b) /usr  
+   c) /var  
+   d) /root  
+   **Correct Answer: a)**  
+
+43. How do you view system memory usage?  
+   a) free  
+   b) meminfo  
+   c) top  
+   d) usage  
+   **Correct Answer: a)**  
+
+44. Which command is used to count lines in a file?  
+   a) wc  
+   b) count  
+   c) lines  
+   d) nl  
+   **Correct Answer: a)**  
+
+45. How do you delete a file?  
+   a) rm  
+   b) del  
+   c) erase  
+   d) delete  
+   **Correct Answer: a)**  
+
+46. What is the purpose of the `alias` command?  
+   a) Create command shortcuts  
+   b) Assign variables  
+   c) Set file permissions  
+   d) Modify directories  
+   **Correct Answer: a)**  
+
+47. Which command shows the current users logged into the system?  
+   a) who  
+   b) users  
+   c) w  
+   d) all of the above  
+   **Correct Answer:
+
+ d)**  
+
+48. How do you display system uptime?  
+   a) uptime  
+   b) sysinfo  
+   c) status  
+   d) time  
+   **Correct Answer: a)**  
+
+49. Which file contains DNS configuration?  
+   a) /etc/resolv.conf  
+   b) /etc/dns.conf  
+   c) /etc/network.conf  
+   d) /etc/hosts  
+   **Correct Answer: a)**  
+
+50. What does `history` command show?  
+   a) Command history  
+   b) System logs  
+   c) User login history  
+   d) File modification history  
+   **Correct Answer: a)**  

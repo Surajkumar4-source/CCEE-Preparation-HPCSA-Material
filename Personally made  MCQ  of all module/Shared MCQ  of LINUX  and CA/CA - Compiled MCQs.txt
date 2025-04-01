@@ -1,0 +1,738 @@
+1. Convert the hexadecimal number (1E2)16 to decimal.
+a) 480
+b) 483
+c) 482 - Correct
+d) 484
+
+2. (170)10 is equivalent to ____________
+a) (FD)16
+b) (DF)16
+c) (AA)16 - Correct
+d) (AF)16
+
+3. What does the symbol E represent in a hexadecimal number system?
+a) 15
+b) 16
+c) 13
+d) 14 - Correct
+
+4. The maximum number of bits sufficient to represent a hexadecimal number in binary:
+a) 4 - Correct
+b) 3
+c) 7
+d) 8
+
+5. Convert (52)16 into its decimal equivalent.
+a) 28
+b) 83
+c) 80
+d) 82 - Correct
+
+6. What does ASCII stand for?
+a) American Standard Code for Information Interchange - Correct
+b) American Scientific Code for Information Interchange
+c) American Scientific Code for Interchanging Information
+d) American Standard Code for Interchanging Information
+
+7. The two types of ASCII are _____________ and ____________
+a) ASCII-4 and ASCII-8
+b) ASCII-8 and ASCII-16
+c) ASCII-7 and ASCII-8 - Correct
+d) ASCII-4 and ASCII-16
+
+8. The 2’s complement of 5 is ______________
+a) 1011 - Correct
+b) 0101
+c) 1010
+d) 0011
+
+9. ALU unit consists of _________ subsections namely.
+
+A. 2 - Correct
+B. 3
+C. 4
+D. 5
+
+10. Which unit can store instructions, data, and intermediate results?
+
+A. Arithmetic Logic Unit
+B. Control Unit
+C. Storage Unit - Correct
+D. All of the above
+
+11. __________ converts the programs written in assembly language into machine instructions.
+a) Machine compiler
+b) Interpreter
+c) Assembler - Correct
+d) Converter
+
+12. The instructions like MOV or ADD are called as ______
+a) OP-Code - Correct
+b) Operators
+c) Commands
+d) None of the mentioned
+
+13. The electrical circuits/lines that you see on the motherboard that is used to transfer data is known as :
+a) Bus - Correct
+b) Registers
+c) Heat sink
+d) SMPS
+
+14. Assembly language
+(A) Uses alphabetic codes in place of binary numbers used in machine language - Correct
+(B) Is the easiest language to write programs
+(C) Need not be translated into machine language
+(D) None of these
+
+15. The load instruction is mostly used to designate a transfer from memory to a processor register known as________.
+(A) Accumulator - Correct
+(B) Instruction Register
+(C) Program counter
+(D) Memory address Register
+
+16. If we do not want backup of the data, we should use _______.
+(a) RAID-0 - Correct
+(b) RAID-1
+(c) RAID-2
+(d) RAID-3
+
+17. In NUMA, _______________.
+(a) all the processes share common memory
+(b) each proecess can access only its own memory
+(c) each proecess has its own memory but can access other processes' memory also - Correct
+(d) each process does not have its own memory
+
+18.  The ________ architecture is more suited for embedded systems.
+(a) DMA
+(b) PCI
+(c) PCI express
+(c) programmed I/O - Correct
+
+19. On a hard disk, _____________.
+(a) the outermost track has the highest storage capacity
+(b) the innermost track has the highest storage capacity
+(c) a sector is made up of tracks
+(d) all tracks have the same storage capacity - Correct
+
+20. _______ is an example of RISC processor.
+(a) ARM - Correct
+(b) Intel
+(c) nvdia
+(d) AMD
+
+21. When computers get instructions from the memory in advance, they are stored in ______.
+(a) cache memory
+(b) prefetch buffer - Correct
+(c) accumulator
+(d) instructions register
+
+22. If we have the same data but have different instructions, we use the ______ processor.
+(a) MIMD
+(b) MISD
+(c) SIMD - Correct
+(d) SISD
+
+23. In a multicore processor, each core has _________.
+(a) L0 and L1 cache
+(b) L0 cache only
+(c) L1 cache only
+(d) a dedicated L1 cache and a shared L2 cache - Correct
+
+24. Parity bit can ____________.
+(a) correct errors
+(b) detect and correct errors
+(c) detect single-bit errors only - Correct
+(d) detect multi-bit errors
+
+25. When data in cache memory is inconsistent, we have the _____________ problem.
+(a) stale cache
+(b) old cache
+(c) impure cache
+(d) cache coherence - Correct
+
+
+1. Convert the binary number 789 to hexadecimal.
+a) 316
+b) 31A
+c) 315 - Correct
+d) 319
+
+2. 10110101 in binary equivalent to ____________ in hexadecimal.
+a) B4
+b) C5
+c) C4
+d) B5
+
+3. You are given a decimal number 126. What will be its 2's complement representation?
+a) 1000 0010 - Correct
+b) 0100 0010
+c) 1100 0010
+d) 1111 0010
+
+4. ISA is another name for _________.	
+a) system software level
+b) machine language level - Correct
+c) control level
+d) assembly language level
+
+5. Full form of PCI is ___________.
+a) personal computer interface
+b) personal computer interchange
+c) peripheral component interconnect - Correct
+d) peripheral computer interchange
+
+6. Add R2, #5 is an example of _____________.
+a) register addressing
+b) immediate addressing - Correct
+c) memory addressing
+d) absolute addressing
+
+7. The result of binary subtraction 10101010 – 011011 will be _________.
+a) 010001101
+b) 011001110
+c) 010001100
+d) 010001111 - Correct
+
+8. A half adder gives the sum in ______________.
+a) XOR gate - correct
+b) OR gate
+c) AND gate
+d) NOR gate
+
+9. 1000 0000 0001 1001 in binary signed magnitude represents in decimal ___.
+A. +24
+B. -24
+C. +25
+D. -25 - Correct
+
+10. If we do not want backup of the data, we should use _______.
+(a) RAID-0 - Correct
+(b) RAID-1
+(c) RAID-2
+(d) RAID-3
+
+11. In NUMA, _______________.
+(a) all the processes share common memory
+(b) each proecess can access only its own memory
+(c) each proecess has its own memory but can access other processes' memory also - Correct
+(d) each process does not have its own memory
+
+12.  The ________ architecture is more suited for embedded systems.
+(a) DMA
+(b) PCI
+(c) PCI express
+(c) programmed I/O - Correct
+
+13. On a hard disk, _____________.
+(a) the outermost track has the highest storage capacity
+(b) the innermost track has the highest storage capacity
+(c) a sector is made up of tracks
+(d) all tracks have the same storage capacity - Correct
+
+14. _______ is an example of RISC processor.
+(a) ARM - Correct
+(b) Intel
+(c) nvdia
+(d) AMD
+
+15. When computers get instructions from the memory in advance, they are stored in ______.
+(a) cache memory
+(b) prefetch buffer - Correct
+(c) accumulator
+(d) instructions register
+
+16. If we have the same data but have different instructions, we use the ______ processor.
+(a) MIMD
+(b) MISD
+(c) SIMD - Correct
+(d) SISD
+
+17. In a multicore processor, each core has _________.
+(a) L0 and L1 cache
+(b) L0 cache only
+(c) L1 cache only
+(d) a dedicated L1 cache and a shared L2 cache - Correct
+
+18. Parity bit can ____________.
+(a) correct errors
+(b) detect and correct errors
+(c) detect single-bit errors only - Correct
+(d) detect multi-bit errors
+
+19. When data in cache memory is inconsistent, we have the _____________ problem.
+(a) stale cache
+(b) old cache
+(c) impure cache
+(d) cache coherence - Correct
+
+20. The three parts of a floating point number inside a computer are _________.
+(a) sign, magnitude, power
+(b) sign, exponent, significant - Correct
+(c) sign, significant, exponent
+(d) sign, power, magnitude
+
+1. Convert the binary number 789 to hexadecimal.
+a) 316
+b) 31A
+c) 315 - Correct
+d) 319
+
+2. 10110101 in binary equivalent to ____________ in hexadecimal.
+a) B4
+b) C5
+c) C4
+d) B5
+
+3. You are given a decimal number 126. What will be its 2's complement representation?
+a) 1000 0010 - Correct
+b) 0100 0010
+c) 1100 0010
+d) 1111 0010
+
+4. ISA is another name for _________.	
+a) system software level
+b) machine language level - Correct
+c) control level
+d) assembly language level
+
+5. Full form of PCI is ___________.
+a) personal computer interface
+b) personal computer interchange
+c) peripheral component interconnect - Correct
+d) peripheral computer interchange
+
+6. Add R2, 5 is an example of _____________.
+a) register addressing
+b) immediate addressing - Correct
+c) memory addressing
+d) absolute addressing
+
+7. The result of binary subtraction 10101010 – 011011 will be _________.
+a) 010001101
+b) 011001110
+c) 010001100
+d) 010001111 - Correct
+
+8. A half adder gives the sum in ______________.
+a) XOR gate - correct
+b) OR gate
+c) AND gate
+d) NOR gate
+
+9. 1000 0000 0001 1001 in binary signed magnitude represents in decimal ___.
+A. +24
+B. -24
+C. +25
+D. -25 - Correct
+
+10. If we do not want backup of the data, we should use _______.
+(a) RAID-0 - Correct
+(b) RAID-1
+(c) RAID-2
+(d) RAID-3
+
+12. On a hard disk, _____________.
+(a) the outermost track has the highest storage capacity
+(b) the innermost track has the highest storage capacity
+(c) a sector is made up of tracks
+(d) all tracks have the same storage capacity - Correct
+
+13. When computers get instructions from the memory in advance, they are stored in ______.
+(a) cache memory
+(b) prefetch buffer - Correct
+(c) accumulator
+(d) instructions register
+
+15. If we have the same data but have different instructions, we use the ______ processor.
+(a) MIMD
+(b) MISD
+(c) SIMD - Correct
+(d) SISD
+
+16. In a multicore processor, each core has _________.
+(a) L0 and L1 cache
+(b) L0 cache only
+(c) L1 cache only
+(d) a dedicated L1 cache and a shared L2 cache - Correct
+
+17. Which of the following is an example of data-level parallelism?
+
+A) Running multiple independent software applications concurrently
+B) Dividing a large data set into smaller chunks and processing them in parallel - Correct
+C) Executing multiple threads within a single application
+D) Distributing computation tasks across multiple networked computers
+
+18. What is a page fault in virtual memory systems?
+
+A) A hardware failure in the CPU's memory management unit
+B) A security breach that allows unauthorized access to memory
+C) A situation where a requested memory page is not in physical RAM and must be loaded from secondary storage - Correct
+D) A condition where virtual memory is disabled to improve performance
+
+19. In I/O mapped I/O, which instruction is commonly used to perform I/O operations?
+
+A) LOAD
+B) STORE
+C) MOV
+D) OUT - Correct
+
+20. In which Intel processor generation was the Nehalem microarchitecture introduced?
+
+A) 4th Generation - Correct
+B) 5th Generation
+C) 6th Generation
+D) 7th Generation
+
+21. What is the purpose of the "address bus" in a computer?
+
+A) It carries data between the CPU and memory.
+B) It carries control signals to various devices.
+C) It specifies the memory location for read or write operations. - Correct
+D) It connects external devices like keyboards and mice.
+
+22. What is the primary advantage of instruction pipelining in a CPU?
+
+A) Reduced clock frequency
+B) Faster execution of individual instructions - Correct
+C) Simplified instruction set architecture (ISA)
+D) Increased cache size
+
+23. Which of the following architectures typically features a single shared bus for both instruction fetch and data access?
+
+A) Von Neumann architecture - Correct
+B) Harvard architecture
+C) Hybrid architecture
+D) None of the above
+
+24. In the context of GPU architecture, what is the purpose of CUDA?
+
+A) A programming language used for web development
+B) A graphics rendering technique for video games
+C) A parallel computing platform and API for NVIDIA GPUs - Correct
+D) A display resolution standard for monitors
+
+25. What is the purpose of an interrupt handler in the context of interrupt handling?
+
+A) To initiate an interrupt request
+B) To generate interrupt signals
+C) To process and respond to interrupts - Correct
+D) To prevent interrupts from occurring
+
+1. What is the primary objective of computer architecture?
+   - A) Designing for aesthetics
+   - B) Designing for performance
+   - C) Designing for simplicity
+   - D) Designing for cost-effectiveness
+   - Correct Option: B) Designing for performance
+
+2. Which architecture is commonly associated with embedded systems?
+   - A) Intel x86
+   - B) ARM
+   - C) AMD Ryzen
+   - D) IBM Power
+   - Correct Option: B) ARM
+
+**Session 3: Number systems and Data representation**
+
+3. Which number system is widely used in computer systems?
+   - A) Decimal
+   - B) Binary
+   - C) Octal
+   - D) Hexadecimal
+   - Correct Option: B) Binary
+
+4. What does ASCII stand for?
+   - A) American Standard Code for Information Interchange
+   - B) Automated Standard Code for Information Interface
+   - C) Associated Standard Code for Integrated Information
+   - D) Advanced Standard Code for Interchangeable Information
+   - Correct Option: A) American Standard Code for Information Interchange
+
+**Session 4 & 5: Processor vs. System architecture**
+
+5. What is ALU an abbreviation for in computer architecture?
+   - A) Arithmetic Logic Unit
+   - B) Advanced Logical Unit
+   - C) Automatic Loading Unit
+   - D) Access Linking Unit
+   - Correct Option: A) Arithmetic Logic Unit
+
+6. Which instruction set architecture is commonly associated with RISC?
+   - A) x86
+   - B) ARM
+   - C) MIPS
+   - D) SPARC
+   - Correct Option: C) MIPS
+
+**Session 6 & 7: CISC vs. RISC architectures**
+
+7. What does RISC stand for in computer architecture?
+   - A) Reduced Instruction Set Computer
+   - B) Complex Instruction Set Computer
+   - C) Random Instruction Set Computing
+   - D) Rapid Instruction Set Computation
+   - Correct Option: A) Reduced Instruction Set Computer
+
+8. Which architecture emphasizes simplicity and efficiency of instructions?
+   - A) RISC
+   - B) CISC
+   - C) MIPS
+   - D) x86
+   - Correct Option: A) RISC
+
+**Session 8 & 9: Multi-Processor architecture**
+
+9. What is the primary advantage of shared memory multiprocessors?
+   - A) Low cost
+   - B) High scalability
+   - C) Easy programming
+   - D) Low power consumption
+   - Correct Option: C) Easy programming
+
+10. Which technology is commonly used to connect multiple GPUs?
+    - A) PCI-Express
+    - B) NVLink
+    - C) Thunderbolt
+    - D) SATA
+    - Correct Option: B) NVLink
+
+**Session 10: Memory Hierarchy**
+
+11. What is the purpose of cache memory in a computer system?
+    - A) To store data temporarily for quick access
+    - B) To store permanent data
+    - C) To store data for long-term storage
+    - D) To control the flow of data
+    - Correct Option: A) To store data temporarily for quick access
+
+12. Which memory technology is typically the fastest but also the most expensive?
+    - A) Main Memory
+    - B) Cache Memory
+    - C) Auxiliary Memory
+    - D) Virtual Memory
+    - Correct Option: B) Cache Memory
+
+**Session 11 & 12: Memories and Caches**
+
+13. What is cache coherency in multi-processor systems?
+    - A) Ensuring that caches have consistent data across processors
+    - B) Ensuring that caches have different data across processors
+    - C) Ensuring that caches are disabled
+    - D) Ensuring that caches are destroyed
+    - Correct Option: A) Ensuring that caches have consistent data across processors
+
+14. Which method is commonly used to control cache behavior?
+    - A) Finite-State Machine
+    - B) Turing Machine
+    - C) Abstract Machine
+    - D) Quantum Machine
+    - Correct Option: A) Finite-State Machine
+
+**Session 13 & 14: Standard IO interfaces GPU elements**
+
+15. What is the purpose of interrupts in computer systems?
+    - A) To speed up data processing
+    - B) To handle asynchronous events
+    - C) To perform arithmetic operations
+    - D) To store data permanently
+    - Correct Option: B) To handle asynchronous events
+
+16. Which type of I/O transfer is more efficient in terms of CPU usage?
+    - A) Synchronous
+    - B) Asynchronous
+    - C) Sequential
+    - D) Serial
+    - Correct Option: B) Asynchronous
+
+**Session 15: An overview of the latest processors**
+
+17. Which company produces Intel processors?
+    - A) Intel
+    - B) AMD
+    - C) ARM
+    - D) IBM
+    - Correct Option: A) Intel
+
+18. What is the significance of 32-bit and 64-bit processors?
+    - A) They determine the size of cache memory
+    - B) They determine the number of processing cores
+    - C) They determine the size of the data bus
+    - D) They determine the size of memory addresses
+    - Correct Option: D) They determine the size of memory addresses
+
+**Session 16 & 17: Distributed systems, cluster computing**
+
+19. What is the primary advantage of a distributed system?
+    - A) Low cost
+    - B) High reliability
+    - C) Low performance
+    - D) Low scalability
+    - Correct Option: B) High reliability
+
+20. Which architecture is commonly associated with cluster computing?
+    - A) SMP
+    - B) NUMA
+    - C) PCI
+    - D) TCP/IP
+    - Correct Option: A) SMP
+
+**Session 18: Introduction to communication system**
+
+21. What is OSI an abbreviation for in computer networking?
+    - A) Open System Interconnect
+    - B) Open Source Initiative
+    - C) Operating System Integration
+    - D) Open Systems Interconnection
+    - Correct Option: D) Open Systems Interconnection
+
+22. Which OSI layer is responsible for routing and addressing?
+    - A) Physical Layer
+    - B) Data Link Layer
+    - C) Network Layer
+    - D) Transport Layer
+    - Correct Option: C) Network Layer
+
+**Session 19: IP Addressing and Routing**
+
+23. What is the purpose of a router in a computer network?
+    - A) To connect devices within a LAN
+    - B) To connect multiple LANs or WANs
+    - C) To provide wireless connectivity
+    - D) To manage email communication
+    - Correct Option: B) To connect multiple LANs or WANs
+
+24. What is the main function of a switch in a computer network?
+    - A) To route data between networks
+    - B) To filter network traffic based on IP addresses
+    - C) To connect devices within the same LAN
+    - D) To
+
+ provide internet access to devices
+    - Correct Option: C) To connect devices within the same LAN
+
+**Introduction to Processor & Co-processor Architectures**
+
+25. What is the role of a co-processor in a computer system?
+    - A) To handle input/output operations
+    - B) To perform specialized computations
+    - C) To manage memory access
+    - D) To execute system instructions
+    - Correct Option: B) To perform specialized computations
+
+26. Which type of co-processor is commonly used for graphics processing?
+    - A) Intel
+    - B) Nvidia GPU
+    - C) FPGA
+    - D) AMD
+    - Correct Option: B) Nvidia GPU
+
+**Cross Compilation techniques**
+
+27. What is cross-compilation in computer programming?
+    - A) Compiling code to run on multiple platforms
+    - B) Compiling code to run on a single platform
+    - C) Compiling code for parallel execution
+    - D) Compiling code for distributed computing
+    - Correct Option: A) Compiling code to run on multiple platforms
+
+28. Which programming languages are commonly used for cross-compilation?
+    - A) Python and Ruby
+    - B) C and C++
+    - C) Java and JavaScript
+    - D) HTML and CSS
+    - Correct Option: B) C and C++
+
+**Session 20: Cloud Computing**
+
+29. What are the main characteristics of cloud computing?
+    - A) On-demand self-service, broad network access, resource pooling, rapid elasticity, measured service
+    - B) High cost, limited accessibility, fixed resources, slow scalability, manual service
+    - C) Limited self-service, narrow network access, individual resource allocation, fixed elasticity, estimated service
+    - D) On-demand service, restricted network access, resource sharing, slow scalability, fixed service
+    - Correct Option: A) On-demand self-service, broad network access, resource pooling, rapid elasticity, measured service
+
+30. Which cloud computing model provides access to hardware resources over the internet?
+    - A) Infrastructure as a Service (IaaS)
+    - B) Platform as a Service (PaaS)
+    - C) Software as a Service (SaaS)
+    - D) Function as a Service (FaaS)
+    - Correct Option: A) Infrastructure as a Service (IaaS)
+
+**Session 21 & 22: Introduction to Processor architecture**
+
+31. What are the key components of a processor architecture?
+    - A) ALU, Control Unit, Registers
+    - B) RAM, ROM, Cache Memory
+    - C) Network Interface Card, Switch, Router
+    - D) Keyboard, Mouse, Monitor
+    - Correct Option: A) ALU, Control Unit, Registers
+
+32. Which type of processor architecture is commonly used in smartphones and tablets?
+    - A) Intel
+    - B) AMD
+    - C) ARM
+    - D) IBM Power
+    - Correct Option: C) ARM
+
+**Session 23 & 24: Introduction to different processor Architectures**
+
+33. What is a distinguishing feature of Intel processors?
+    - A) High power consumption
+    - B) x86 instruction set architecture
+    - C) Low performance
+    - D) ARM architecture
+    - Correct Option: B) x86 instruction set architecture
+
+34. Which company produces AMD processors?
+    - A) Intel
+    - B) Nvidia
+    - C) AMD
+    - D) ARM
+    - Correct Option: C) AMD
+
+**Session 25, 26 & 27: Introduction to Co-processors**
+
+35. What is the primary advantage of using a GPU as a co-processor?
+    - A) Low power consumption
+    - B) High clock speed
+    - C) Parallel processing capability
+    - D) Large cache memory
+    - Correct Option: C) Parallel processing capability
+
+36. What does FPGA stand for?
+    - A) Field-Programmable Graphical Array
+    - B) Finite-Programmable Grid Architecture
+    - C) Flexible Programmable Gateway Assembly
+    - D) Field-Programmable Gate Array
+    - Correct Option: D) Field-Programmable Gate Array
+
+**Session 28, 29 & 30: Cross Compilation techniques**
+
+37. What is the purpose of cross-compilation in software development?
+    - A) To optimize code for a specific platform
+    - B) To debug code on multiple platforms simultaneously
+    - C) To distribute code to different servers
+    - D) To execute code on a remote machine
+    - Correct Option: A) To optimize code for a specific platform
+
+38. Which factor determines the target platform for cross-compilation?
+    - A) Software requirements
+    - B) Developer preference
+    - C) Hardware architecture
+    - D) Operating system version
+    - Correct Option: C) Hardware architecture
+
+39. What is a common challenge in cross-compilation?
+    - A) Limited hardware resources
+    - B) Compatibility issues
+    - C) Slow compilation speed
+    - D) Lack of developer tools
+    - Correct Option: B) Compatibility issues
+
+40. What are some advantages of cross-compilation over native compilation?
+    - A) Faster execution, smaller executable size
+    - B) Platform independence, reduced development time
+    - C) Higher performance, better optimization
+    - D) Improved security, easier debugging
+    - Correct Option: B) Platform independence, reduced development time
+
